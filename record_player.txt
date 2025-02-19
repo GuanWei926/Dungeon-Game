@@ -1,0 +1,1 @@
+jason 350 300 400 400 Wizard Fire-Ball 1000 3 2 4 3 0 2 armor magic-wand 
